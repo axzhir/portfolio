@@ -6,17 +6,17 @@ const Education = () => {
     {
       type: "University",
       institution: "James Madison University",
-      degree: "B.S. in Computer Science, Minor in Business & Data Analytics",
+      degree: "B.S. in Computer Science",
       period: "2025 - Present",
-      description: "Currently pursuing a Bachelor's degree in Computer Science with a focus on Artificial Intelligence, and a Minor in Business & Data Analytics.",
+      description: "Currently pursuing a Bachelor's degree in Computer Science with a focus on Artificial Intelligence.",
       icon: GraduationCap
     },
     {
       type: "University",
       institution: "George Mason University",
-      degree: "A.S. in Computer Science, Minor in Business Analytics",
+      degree: "A.S. in Computer Science",
       period: "2022 - 2024",
-      description: "Completed an Associate's degree in Computer Science with a minor in Business Analytics. Focus on coding, data analysis, and foundational business concepts. Earned a 3.0+ GPA and Dean's List for academic excellence.",
+      description: "Completed an Associate's degree in Computer Science. Focus on coding, data analysis, and foundational business concepts. Earned a 3.0+ GPA and Dean's List for academic excellence.",
       icon: GraduationCap
     },
     {
